@@ -1,4 +1,4 @@
-module github.com/begtodfir/containment
+module github.com/christophersinclair/containment
 
 go 1.18
 

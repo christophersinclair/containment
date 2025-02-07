@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/begtodfir/containment/internal/config"
-	"github.com/begtodfir/containment/internal/detection"
-	"github.com/begtodfir/containment/internal/logging"
+	"github.com/christophersinclair/containment/internal/config"
+	"github.com/christophersinclair/containment/internal/detection"
+	"github.com/christophersinclair/containment/internal/logging"
 )
 
 func main() {
@@ -32,7 +32,7 @@ func printGreeting() {
   .::::::::::::::.
     oO:::::::Oo
 
-Welcome to Containment! Author: @begtodfir
+Welcome to Containment! Author: @christophersinclair
 	`
 
 	fmt.Println(greeting)

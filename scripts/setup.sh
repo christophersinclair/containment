@@ -1,6 +1,6 @@
 ################################################
 # System setup for Containment program
-# Author: @begtodfir
+# Author: @christophersinclair
 
 # Creates necessary systemd configuration directory
 # Attaches eBPF programs to the kernel

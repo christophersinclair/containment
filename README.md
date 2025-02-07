@@ -46,5 +46,5 @@ enable_proc_scans = true  # Scan /proc for hidden processes
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, reach out via [GitHub Issues](https://github.com/begtodfir/containment/issues).
+For questions or support, reach out via [GitHub Issues](https://github.com/christophersinclair/containment/issues).
 
