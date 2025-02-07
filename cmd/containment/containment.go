@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/begtodfir/containment/config"
-	"github.com/begtodfir/containment/detection"
-	"github.com/begtodfir/containment/logging"
+	"github.com/begtodfir/containment/internal/config"
+	"github.com/begtodfir/containment/internal/detection"
+	"github.com/begtodfir/containment/internal/logging"
 )
 
 func main() {

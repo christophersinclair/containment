@@ -1,8 +1,8 @@
 package detection
 
 import (
-	"github.com/begtodfir/containment/config"
-	"github.com/begtodfir/containment/logging"
+	"github.com/begtodfir/containment/internal/config"
+	"github.com/begtodfir/containment/internal/logging"
 )
 
 func Detect(cfg *config.DetectionConfig, sysblacklist *config.BlacklistConfig) {

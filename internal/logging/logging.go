@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/begtodfir/containment/config"
+	"github.com/begtodfir/containment/internal/config"
 )
 
 const (

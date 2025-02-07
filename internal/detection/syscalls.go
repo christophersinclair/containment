@@ -1,7 +1,7 @@
 package detection
 
 import (
-	"github.com/begtodfir/containment/config"
+	"github.com/begtodfir/containment/internal/config"
 )
 
 func DetectSyscalls(blacklist *config.BlacklistConfig) {
