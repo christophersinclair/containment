@@ -1,0 +1,5 @@
+package detection
+
+func DetectMounts() {
+
+}
