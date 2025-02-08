@@ -18,6 +18,10 @@ cp systemd/containment.d/* /etc/containment.d/
 # Systemd service
 cp systemd/containment.service /etc/systemd/system/
 
+# eBPF setup
+chmod +x bpf.sh
+./bpf.sh
+
 # Deploy Containment software
 if [[ ! -f containment ]]; then
     go build -o containment
